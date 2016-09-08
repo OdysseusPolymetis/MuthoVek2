@@ -1,7 +1,0 @@
-test*
-/classes/
-/*.csv
-/*.txt
-/*.json
-*.bak
-build/
